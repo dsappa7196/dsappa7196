@@ -100,7 +100,7 @@ Business Intelligence | Data Warehousing | Optimization & Simulation | Machine L
 
 ## 📫 Get In Touch
 
-📧 Email: padmasree@example.com  
+📧 Email: sdnps7196@gmail.com / dsappa@sfsu.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/padmasree-sappa/)  
 🌐 [Portfolio Website](https://github.com/dsappa7196/Padmasree_Sappa.github.io)  
 📍 San Francisco, CA  
