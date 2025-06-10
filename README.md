@@ -104,7 +104,7 @@ Business Intelligence | Data Warehousing | Optimization & Simulation | Machine L
 🔗 [LinkedIn](https://www.linkedin.com/in/padmasree-sappa/)  
 🌐 [Portfolio Website](https://dsappa7196-github-io-yjma.vercel.app/)  
 📍 San Francisco, CA  
-📂 [Resume](https://github.com/dsappa7196/Padmasree-Sappa/blob/main/PadmasreeSappa_BusinessAnalyst.pdf)
+📂 [Resume](https://github.com/dsappa7196/Padmasree-Sappa/blob/main/Padmasree%20Sappa_Business%20Analyst.pdf)
 
 ---
 
