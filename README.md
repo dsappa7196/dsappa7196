@@ -60,7 +60,7 @@ KPI Design, Stakeholder Communication, Documentation
 
 ---
 
-## Selected Work & Projects  
+## Featured Work & Projects  
 
 ### Agile Delivery & Predictability Analytics (CGI Project)  
 - Analyzed Jira data in a SAFe environment across feature hierarchies, defect patterns, workflow transitions, and cycle timelines  
@@ -81,10 +81,20 @@ KPI Design, Stakeholder Communication, Documentation
 
 ## Experience Snapshot  
 
-**Amazon | Business Operations & Data Analytics**  
-- Delivered analytics solutions supporting operations, quality, and risk programs  
-- Automated workflows and reporting to improve productivity and accuracy  
-- Recognized with multiple performance awards for impact  
+**Amazon | Business Operations & Analytics**  
+- Delivered analytics solutions supporting large-scale operations, quality, and risk programs  
+- Built SQL-driven dashboards and automated reporting to improve productivity and decision-making  
+- Designed SOPs and process improvements that reduced manual effort and resolution time  
+- Recognized with multiple performance awards for impact and innovation  
+
+**CGI | Agile Delivery Analytics Project**  
+- Analyzed Jira data in a SAFe environment across feature hierarchies, defects, workflows, and cycle timelines  
+- Identified delivery risk patterns, dependency impact, and planning gaps  
+- Connected analytics insights to Scrum roles, ownership, and feedback loops  
+
+**Academic & Applied Analytics Projects**  
+- Built optimization, forecasting, and classification models for delivery, operations, and pricing use cases  
+- Translated analytical outputs into business-focused insights and recommendations  
 
 ---
 
