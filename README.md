@@ -1,127 +1,113 @@
-# 👋 Hello there! I'm Padmasree Sappa
+👋 Hi, I’m Padmasree Sappa  
 
-🎓 Master’s in Business Analytics @ San Francisco State University  
-💼 6.5+ years of experience in Business Analytics & Data Operations (ex-Amazon)  
-📍 San Francisco, CA | Open to internships & full-time roles in analytics, data strategy, BI, and process automation  
-🧠 Business Analyst | Data Storyteller | Insight-Driven Decision Maker
-
----
-
-## 🧾 About Me
-
-With 6.5+ years of experience driving operational performance at scale, I specialize in transforming messy, raw data into strategic insights that solve real business problems.
-
-At Amazon, I worked across data ops, catalog quality, and counterfeit detection — building predictive models, automating processes, and designing dashboards that improved productivity, accuracy, and resolution times. My analytics solutions saved thousands of hours and were awarded with 8 consecutive performance recognitions.
-
-Now pursuing a **Master’s in Business Analytics**, I’m enhancing that industry experience with advanced coursework in machine learning, optimization, data engineering, and decision analytics. I'm passionate about creating **data-powered solutions** that deliver measurable impact across customer experience, logistics, and strategy.
+📍 San Francisco, CA  
+🎓 MS in Business Analytics | San Francisco State University  
+💼 6.5+ years of experience across Analytics, Delivery, and Operations (ex-Amazon, CGI project)  
+📜 Certified ScrumMaster (CSM) | Certified Scrum Product Owner (CSPO)  
+🎯 Open to roles in Analytics, Project / Program Management, Product & Delivery, Operations, and Process Improvement  
 
 ---
 
-## 💡 What I Do Well
+## About Me  
 
-- 📊 Deriving actionable insights from data
-- ⚙️ Automating repetitive workflows (SQL, VBA, Python)
-- 📈 Visualizing business trends via dashboards
-- 🧠 Designing predictive and prescriptive models
-- 📦 Understanding end-to-end operations — from catalog to customer
-- 🤝 Collaborating with strategy, product, and engineering teams
+I am a data-driven professional with 6.5+ years of experience working at the intersection of **analytics, delivery execution, and operations** in large-scale environments.
 
----
+My work focuses on understanding how work flows through systems, where execution breaks down, and how **data, process clarity, and accountability** drive better business outcomes. I use analytics not just to report results, but to support **planning, prioritization, risk identification, and decision-making**.
 
-## 🔨 Tools & Technologies
-
-**Languages & Analysis**: SQL, Python (Pandas, NumPy), VBA, DAX  
-**Visualization**: Tableau, Power BI, Excel, Smartsheet  
-**Machine Learning**: scikit-learn, Regression, Classification, Forecasting  
-**Data Engineering**: ETL, Data Warehousing, AWS (S3, EC2, DynamoDB), Redshift  
-**Business Skills**: Root Cause Analysis, SOP Design, Process Optimization, Stakeholder Communication
+Alongside my industry experience, I completed **CSM and CSPO certifications** to strengthen my understanding of **Scrum roles, responsibilities, and value-driven delivery**, building on what I observed through real delivery data.
 
 ---
 
-## 🚀 Projects (Applied + Academic)
+## Professional Focus  
 
-### 📦 Meal Delivery Route Optimization Model
-- Built a solver-based optimization model for a meal delivery service  
-- Reduced delivery time by 15% and improved route efficiency  
-**Skills**: Excel Solver, Optimization Modeling, Simulation
-
-### 🚲 Seoul Bike Sharing Demand Prediction
-- Forecasted demand using regression and feature engineering from weather/time data  
-- Achieved 92% model accuracy  
-**Skills**: Python, scikit-learn, Feature Engineering
-
-### 📺 YouTube Metrics Dashboard
-- Built a Tableau dashboard analyzing CTR, views, and ad revenue  
-- Helped creators optimize scheduling and content formats  
-**Skills**: Tableau, KPI Tracking, Data Visualization
-
-### 💰 US Health Insurance Premium Classification
-- Modeled and visualized cost-driving factors like age, BMI, and smoking  
-- Delivered 92% accurate predictions and helped redesign pricing strategy  
-**Skills**: Python, Classification, Data Preprocessing
-
-### 🛡️ Amazon Counterfeit Database Management System
-- Designed SQL schema and process tracker that reduced resolution time by 30%  
-- Tracked brand registration, product verification, and complaint trends  
-**Skills**: SQL, Relational Modeling, Automation, Governance
+- Analytics-driven project and program delivery  
+- Agile and Scrum execution with a strong understanding of roles and accountability  
+- Business and operational analytics for decision support  
+- Process improvement, automation, and efficiency optimization  
+- Translating data insights into actionable recommendations  
 
 ---
 
-## 🏢 Work Experience
+## What I Work On  
 
-### 🔸 Business Operations Specialist — Amazon Transparency (2021–2023)
-- Created SQL-driven dashboards and automated reports for faster seller onboarding  
-- Designed SOPs and change-managed processes that saved 0.07 FTEs  
-- Implemented ASIN validation using VBA, reducing manual workload by 40%  
-- Earned 8 “Spotlight” awards for performance & innovation
-
-### 🔸 Data Operations Associate — Amazon AVOC (2019–2021)
-- Built SLA compliance prediction models and led robotics pilot for SCOUT delivery  
-- Automated AI-based resource planning saving ~1,800 annual work hours  
-- Supported analytics testing and root cause detection in logistics workflows
-
-### 🔸 Business Analyst — Algae Bio-Tech India Pvt Ltd (2017–2019)
-- Led a team of analysts to automate reporting pipelines and reduce process lag  
-- Introduced SQL-based operations tracking and improved overall efficiency by 20%
+- Analyzing delivery data across features, stories, defects, workflows, dependencies, and timelines  
+- Identifying bottlenecks, risks, and inefficiencies in complex delivery systems  
+- Designing dashboards and metrics to enable transparency and early feedback  
+- Building predictive and optimization models for planning and operations  
+- Collaborating with product, delivery, and engineering stakeholders  
 
 ---
 
-## 🎓 Education
+## Tools & Skills  
+
+**Analytics & Data**  
+SQL, Python (Pandas, NumPy), Excel, VBA, DAX  
+Data Modeling, ETL, Forecasting, Validation  
+
+**Visualization & Reporting**  
+Power BI, Tableau, Excel, Smartsheet  
+
+**Delivery & Agile Context**  
+Jira Analytics, SAFe environments  
+Scrum fundamentals, roles, accountability, and value alignment  
+
+**Cloud & Platforms**  
+AWS (S3, EC2, DynamoDB, Redshift)  
+
+**Business & Operations**  
+Process Improvement, Root Cause Analysis  
+KPI Design, Stakeholder Communication, Documentation  
+
+---
+
+## Selected Work & Projects  
+
+### Agile Delivery & Predictability Analytics (CGI Project)  
+- Analyzed Jira data in a SAFe environment across feature hierarchies, defect patterns, workflow transitions, and cycle timelines  
+- Identified delivery risk patterns, dependency impact, and planning gaps  
+- Connected analytics insights to Scrum roles, ownership, and feedback loops  
+
+### Amazon Operations & Risk Analytics  
+- Built SQL-driven dashboards and automated reporting pipelines  
+- Designed SOPs and process improvements reducing manual effort and resolution time  
+- Supported governance, quality metrics, and operational decision-making  
+
+### Optimization & Predictive Modeling  
+- Meal Delivery Route Optimization reducing delivery time by 15%  
+- Seoul Bike Demand Prediction achieving 92% accuracy  
+- Health Insurance Cost Classification supporting pricing insights  
+
+---
+
+## Experience Snapshot  
+
+**Amazon | Business Operations & Data Analytics**  
+- Delivered analytics solutions supporting operations, quality, and risk programs  
+- Automated workflows and reporting to improve productivity and accuracy  
+- Recognized with multiple performance awards for impact  
+
+---
+
+## Education  
 
 **San Francisco State University**  
-*MS in Business Analytics (Expected Dec 2025)*  
-📚 Relevant Courses:  
-Business Intelligence | Data Warehousing | Optimization & Simulation | Machine Learning | Multivariate Statistics | Strategic Analytics | Project Management
+MS in Business Analytics (Expected Dec 2025)  
 
 **Jawaharlal Nehru Technological University**  
-*Bachelor of Technology in Electrical & Electronics Engineering (2017)*
+B.Tech in Electrical & Electronics Engineering  
 
 ---
 
-## 📫 Get In Touch
+## Currently Exploring  
 
-📧 Email: sdnps7196@gmail.com / dsappa@sfsu.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/padmasree-sappa/)  
-🌐 [Portfolio Website](https://dsappa7196-github-io-yjma.vercel.app/)  
-📍 San Francisco, CA  
-📂 [Resume](https://github.com/dsappa7196/Padmasree-Sappa/blob/main/Padmasree%20Sappa_Business%20Analyst.pdf)
+- Applying analytics alongside Scrum and delivery execution  
+- Strengthening program and delivery management capabilities  
+- Preparing for PMP certification  
 
 ---
 
-_“I don’t just work with data. I work with impact.”_
+📫 Let’s Connect  
+📧 Email: sdnps7196@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/padmasreesappa/  
 
-
-<!--
-**dsappa7196/dsappa7196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I don’t just analyze data. I analyze how work gets done.
